@@ -1,0 +1,4 @@
+a1,b1=input().split()
+x=int(b1)
+for i in range(0,x):
+          print(a1)
